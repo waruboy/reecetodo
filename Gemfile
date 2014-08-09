@@ -41,3 +41,4 @@ gem 'spring',        group: :development
 # ...
 gem 'passenger'
 
+gem 'mysql2',        group: :production
